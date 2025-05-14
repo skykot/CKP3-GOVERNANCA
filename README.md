@@ -21,3 +21,9 @@
   - Avaliação de Desempenho
   - Comunicação com Cliente
 
+## 👥 Integrantes do Grupo
+-Gabriel Fernando Gimenez rm-92957 
+-Guilherme Costa rm-98937
+-Hugo Oliveira rm-550153
+-Matheus Cerqueira rm-99996
+-Julianna Mariano rm–551650
